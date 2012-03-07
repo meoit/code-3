@@ -1,0 +1,8 @@
+bin\Debug\SoPhuc.exe
+bin\Debug\SoPhuc.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SoPhuc.GDSoPhuc.resources
+obj\Debug\SoPhuc.Properties.Resources.resources
+obj\Debug\SoPhuc.csproj.GenerateResource.Cache
+obj\Debug\SoPhuc.exe
+obj\Debug\SoPhuc.pdb
